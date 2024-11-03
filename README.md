@@ -28,3 +28,9 @@ sudo apt install python3-tk
 sudo apt install python3-ttkthemes
 sudo apt install python3-sympy
 ```
+
+Finally,
+
+```bash
+./run.sh
+```
