@@ -1,4 +1,4 @@
-
+![Logo](static/tofu.png)
 # Tofu Parametric Visualizer
 
 A visualizer for parametric curves in R2.
