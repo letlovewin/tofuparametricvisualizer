@@ -20,10 +20,11 @@ Go to the project directory
 cd tofuparametricvisualizer
 ```
 
-From here you may need to install Python3, Tkinter, and SymPy.
+From here you may need to install Python3, Tkinter, ttkthemes, and SymPy.
 
 ```bash
 sudo apt install python3
 sudo apt install python3-tk
+sudo apt install python3-ttkthemes
 sudo apt install python3-sympy
 ```
